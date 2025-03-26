@@ -1,0 +1,9 @@
+Scribe: Realistic Handriting in Tensorflow
+     by Sam Greydanus
+
+
+
+TRAINING MODE...
+Namespace(train=True, rnn_size=100, tsteps=150, nmixtures=8, kmixtures=1, alphabet=' abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ', tsteps_per_ascii=25, batch_size=32, nbatches=500, nepochs=250, dropout=0.85, grad_clip=10.0, optimizer='rmsprop', learning_rate=0.0001, lr_decay=1.0, decay=0.95, momentum=0.9, data_scale=50, log_dir='./logs/', data_dir='./data', save_path='saved/model.ckpt', save_every=500, text='', style=-1, bias=1.0, sleep_time=300)
+
+loading data...
